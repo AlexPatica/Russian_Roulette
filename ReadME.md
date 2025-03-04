@@ -27,8 +27,3 @@ https://stackoverflow.com/questions/51575498/python-script-to-delete-folders-fro
 https://www.w3schools.com/python/python_lambda.asp
 https://www.youtube.com/watch?v=tpwu5Zb64lQ
 https://github.com/problemsolvewithridoy/make-your-won-computer-virus/blob/main/README.md
-
-Cine a facut fiecare componenta a proiectului:
-
-Patica Alexandru - Cristian: butoanele, labelurile si ferestrele (partea de GUI) + functionalitatea butoanelor (functiile de alegere)
-Dociu Mario Cristian + Tufan Octavian Ioan: functionalitatea jocului (functiile easy, medium si hard) + gasirea linkurilor pentru documentatie
