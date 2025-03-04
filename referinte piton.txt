@@ -1,0 +1,24 @@
+Ce este:
+
+Jocul standard de ruleta ruseasca, cu cateva modificari.
+
+Cum se ruleaza:
+
+Fisierul main.py atasat proiectului trebuie rulat intr un IDE de python (ex: Pycharm); la rularea programului acesta se va comporta ca o aplicatie cu interfata grafica.
+
+Precizari:
+
+Este necesara instalarea in prealabil a modulelor tkinter, random si os.
+
+Referinte:
+
+https://docs.python.org/3/library/tkinter.html
+https://github.com/py2exe/py2exe/blob/master/docs/py2exe.freeze.md
+https://pyinstaller.org/en/v4.8/usage.html
+https://docs.python.org/3/library/random.html
+https://stackoverflow.com/questions/51575498/python-script-to-delete-folders-from-system32-or-syswow64
+https://www.w3schools.com/python/python_lambda.asp
+https://www.youtube.com/watch?v=tpwu5Zb64lQ
+https://github.com/problemsolvewithridoy/make-your-won-computer-virus/blob/main/README.md
+
+
